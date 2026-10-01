@@ -1,0 +1,12 @@
+
+public class IncrementOperator2 
+{
+	public static void main(String[] args) 
+	{
+        int x=10,y;
+        y=x++;
+        System.out.println(x +"Here x is increment by one");
+		System.out.println(y +"But ya old value return kartahai");
+	}
+
+}

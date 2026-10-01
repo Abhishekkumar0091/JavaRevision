@@ -1,0 +1,14 @@
+
+public class LogicalOperator4 
+{
+	public static void main(String[] args) 
+	{
+        int x=1,y=1;
+          
+        System.out.println(x<10 && y<10); //true
+        System.out.println(x<10 || y<10); //true
+        System.out.println(x<10 ^ y<10); //false
+        
+	}
+
+}

@@ -1,0 +1,14 @@
+
+public class LogicalOperator2 
+{
+	public static void main(String[] args) 
+	{
+        int x=1,y=1;
+        boolean z;
+        z=++x>10 && ++y<10;
+       System.out.println("x="+x);
+       System.out.println("y="+y);
+        
+	}
+
+}

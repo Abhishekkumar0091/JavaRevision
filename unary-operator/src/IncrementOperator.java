@@ -1,0 +1,13 @@
+
+public class IncrementOperator 
+{
+	public static void main(String[] args) 
+	{ 
+		int x=10;
+		System.out.println("Before increment x="+x);
+		++x;
+		System.out.println("After increment x="+x);
+
+	}
+
+}
